@@ -40,20 +40,23 @@ nav ul li a:hover{
 #home{
     height: 100vh;
     background-color: #f6f6f6;
-
-}
+    }
 #about{
     height: 100vh;
     background-color: #f6f6f6;
-
-}
+    }
 #services{
     height: 100vh;
     background-color: #f6f6f6;
-
-}
+   }
 #contact{
     height: 100vh;
     background-color: #f6f6f6;
-
+   }
+section{
+    padding: 2em 0;
+}
+main{
+    margin-top: 4em;
+    padding: 2em;
 }
