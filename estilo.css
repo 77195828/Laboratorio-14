@@ -35,5 +35,25 @@ nav ul li a{
     padding: 0,5em 1em;
 }
 nav ul li a:hover{
-    background-color: aquamarine;
+    background-color: rgb(60, 114, 96);
+}
+#home{
+    height: 100vh;
+    background-color: #f6f6f6;
+
+}
+#about{
+    height: 100vh;
+    background-color: #f6f6f6;
+
+}
+#services{
+    height: 100vh;
+    background-color: #f6f6f6;
+
+}
+#contact{
+    height: 100vh;
+    background-color: #f6f6f6;
+
 }
