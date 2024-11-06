@@ -146,3 +146,7 @@ section{
     height: 100vh;
     background-color: #f6f6f6;
    }
+   .dropdown{
+    display: inline-block;
+    position: relative;
+   }
