@@ -41,3 +41,19 @@ button:hover{
     color: orange;
     font-weight: bolder;
 }
+#inicio{
+    height: 100vh;
+    background-color: #f6f6f6;
+    }
+#acercade{
+    height: 100vh;
+    background-color: #f6f6f6;
+    }
+#contacto{
+    height: 100vh;
+    background-color: #f6f6f6;
+   }
+#articulo{
+    height: 100vh;
+    background-color: #f6f6f6;
+   }
