@@ -6,7 +6,7 @@ body{
     color: #333;
 }
 header{
-    background-color: #4caf50;
+    background-color: #6072de;
     color: white;
     text-align: center;
     padding: 20px;
@@ -19,7 +19,7 @@ section{
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 h2{
-    color: #4caf50;
+    color: #6072de;
 }
 ul{
     list-style-type: none;
@@ -32,7 +32,7 @@ ul li{
    border-radius: 5px;
 }
 footer{
-    background-color: #333;
+    background-color: #6072de;
     color: white;
     text-align: center;
     padding: 10px;
@@ -54,17 +54,17 @@ input, button{
     border: 1px solid #ccc;
 }
 button{
-    background-color: #4caf50;
+    background-color: #6072de;
     color: white;
     border: none;
     cursor: pointer;
 }
 button{
-    background-color: #45a049;
+    background-color: #6072de;
 }
 /*enlaces*/
 a{
-    color: #4caf50;
+    color: #6072de;
     text-decoration: none;
 }
 a:hover{
