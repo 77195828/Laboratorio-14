@@ -3,7 +3,6 @@ function mostrarMensaje(){
 }
 /*validacion de formulario*/
 const form = document.getElementById('contactForm');
-
 form.addEventListener('submit', function(event) {
     const nombre = document.getElementById('nombre').value;
     const email = document.getElementById('email').value;
